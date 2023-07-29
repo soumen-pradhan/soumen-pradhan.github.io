@@ -1,7 +1,7 @@
 ## Timing Code Chunks
 
 Sometimes we need to measure the time taken by some block of code to get a
-sense of the performance chockpoints. But, adding an entire library could
+sense of the performance chokepoints. But, adding an entire library could
 be too cumbersome for small cases.
 
 From this [video by The Cherno](https://youtu.be/oEx5vGNFrLk), here is
